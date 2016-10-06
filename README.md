@@ -1,2 +1,2 @@
 # Small-RNA-seq
-Aim of the project to develop pipeline for RNA-seq. 
+# This code will include pre-processing of small RNA-seq data, for downstream analysis. 
